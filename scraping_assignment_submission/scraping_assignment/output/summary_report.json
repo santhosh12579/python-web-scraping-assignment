@@ -1,0 +1,18 @@
+{
+  "execution_time_seconds": 315.33,
+  "records_collected": {
+    "Books to Scrape": 1000,
+    "Quotes to Scrape": 100
+  },
+  "records_after_cleaning_and_validation": {
+    "Books to Scrape": 1000,
+    "Quotes to Scrape": 100
+  },
+  "records_rejected": {
+    "Books to Scrape": 0,
+    "Quotes to Scrape": 0
+  },
+  "duplicate_records_detected": 1,
+  "final_record_count": 1099,
+  "output_file": "output/final_dataset.csv"
+}

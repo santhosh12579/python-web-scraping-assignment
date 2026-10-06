@@ -1,0 +1,2 @@
+Run pytest -q, then python main.py before submission.
+The scraper is designed to populate output/final_dataset.csv and output/summary_report.json from the public practice sites.
